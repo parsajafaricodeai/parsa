@@ -1,0 +1,6 @@
+{
+  "name": "کانون نوجوانان منتظر",
+  "description": "پلتفرم جامع کانون فرهنگی تربیتی نوجوانان منتظر شامل پرتال عمومی، سیستم مدیریت محتوا (CMS)، ثبت‌نام دوره‌ها و اردوها، گالری رسانه، کارت عضویت دیجیتال و پنل مدیریت کامل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
